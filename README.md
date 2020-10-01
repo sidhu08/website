@@ -9,7 +9,7 @@ This is the [Django](https://www.djangoproject.com/)/[Django CMS](https://www.dj
 
 You must have the following installed:
 
-- Python 3
+- Python 3.8 or 3.6
 - node
 
 Also, the python packages being used require the following libraries to be installed:
